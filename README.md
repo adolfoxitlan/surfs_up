@@ -14,4 +14,8 @@ The investor contacted me to work on an SQLite database containing Oahu's weathe
 
 The analysis period is from August 23, 2016 - to August 23, 2017. The results indicate that the probability of rain is 17.7 based on 2021 observations.
 
+The risk of raining and affecting the shop operations is significantly low.
+
 ![Chart1](Chart1.png)
+
+
