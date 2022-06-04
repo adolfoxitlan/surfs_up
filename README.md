@@ -30,3 +30,12 @@ Also, we can determine that from June and December, regardless of year, the resu
 - The average temperature is around 70F.
 - June and December showed similar min/max and average temperatures.
 - The temperature does not have dramatic fluctuations throughout the year.
+
+I also analyzed the precipitation performance for June and December.
+- June at 13.6%
+- December at 21.6%
+
+![Chart3](June+Precipitation.png)
+
+![Chart4](Dec+Precipitation.png)
+
