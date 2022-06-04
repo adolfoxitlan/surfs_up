@@ -36,6 +36,11 @@ I also analyzed the precipitation performance for June and December.
 - December at 21.6%
 
 ![Chart3](June+Precipitation.png)
-
 ![Chart4](Dec+Precipitation.png)
+
+
+## Summary.
+
+From the Temperature and Precipitation analysis, we can infer that Surf and Shake would be a good business with low risk.
+
 
