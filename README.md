@@ -18,4 +18,15 @@ The risk of raining and affecting the shop operations is significantly low.
 
 ![Chart1](Chart1.png)
 
+As part of the analysis, we can inform the min, max, and average temperature that will help position the shop opportunities for the ice cream business.
+- min = 54F
+- max = 85F
+- average = 72F
 
+![Chart2](TempChart.png)
+
+Also, we can determine that from June and December, regardless of year, the results showed are similar:
+
+- The average temperature is around 70F.
+- June and December showed similar min/max and average temperatures.
+- The temperature does not have dramatic fluctuations throughout the year.
